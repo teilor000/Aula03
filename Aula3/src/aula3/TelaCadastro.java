@@ -140,6 +140,7 @@ public class TelaCadastro extends javax.swing.JFrame {
         txtEndereco.grabFocus();
         txtCelular.grabFocus();
         txtEmail.grabFocus();
+        System.exit(0); // Fecha a Tela qunado clicar em "Gravar"
     }//GEN-LAST:event_btnCadastroActionPerformed
 
     /**
