@@ -87,6 +87,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         JOptionPane.showMessageDialog(null, x );
         txtMensagem.setText("");
         txtMensagem.grabFocus();
+        
     }//GEN-LAST:event_btnGravarActionPerformed
 
     private void txtMensagemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtMensagemActionPerformed
